@@ -1,0 +1,13 @@
+openai
+python-dotenv
+langchain
+pdf2image
+unstructured
+pytesseract
+pypdf
+tiktoken
+googletrans==3.1.0a0
+faiss-cpu
+sentence_transformers
+uuid
+flask 
